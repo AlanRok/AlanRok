@@ -32,4 +32,4 @@
 
 ## Mais sobre min👀
 
-Estudo TI desde 2022, onde comecei aprendendo Python através de cursos na Alura. Atualmente, estou no 2° período de Ciência da Computação na Universidade Tiradentes, onde estou sempre em busca de oportunidades para aplicar minhas habilidades em programação. Atualmente estou participando de uma residência na empresa Baasic, onde estou colaborando com minha equipe e turma em um projeto.
+Estudo TI desde 2022, onde comecei aprendendo Python através de cursos na Alura. Atualmente, estou no 2° período de Ciência da Computação na Universidade Tiradentes, onde estou sempre em busca de oportunidades para aplicar minhas habilidades em programação. Atualmente estou participando de uma residência na empresa Baasic, onde estou colaborando, com minha equipe e turma, em um projeto.

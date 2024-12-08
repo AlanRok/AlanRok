@@ -1,5 +1,5 @@
 
-## Olá, meu nome é Alan Rocha!👋
+## Hello, my name is Alan Rocha!👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/alan-rocha-barbosa-soares-979929320/)
@@ -8,7 +8,7 @@
 
 ![Alan Rocha GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanRok&show_icons=true&theme=dracula)
 
-## Linguagens e Tecnologias que eu uso no meu dia
+## Languages and Technologies I Use in My Day-to-Day
 
 <div style='display: inline_block'></br>
     <img align='center' alt='html5' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
@@ -22,7 +22,7 @@
     <img align='center' alt='html5' src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white'>
 </div>
 
-## Aprendendo...
+## Learning...
 
 <div style='display: inline_block'></br>
     <img align='center' alt='html5' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
@@ -30,6 +30,6 @@
 
 </div>
 
-## Mais sobre min👀
+## About me👀
 
-Estudo TI desde 2022, onde comecei aprendendo Python através de cursos na Alura. Atualmente, estou no 2° período de Ciência da Computação na Universidade Tiradentes, onde estou sempre em busca de oportunidades para aplicar minhas habilidades em programação. Atualmente estou participando de uma residência na empresa Baasic, onde estou colaborando, com minha equipe e turma, em um projeto.
+I started my studies in Information Technology in 2022, when I started learning Python through courses on the Alura platform. Currently studying Computer Science at Tiradentes University. I have practical experience with programming languages ​such as Python, HTML, CSS and JavaScript, React.js and Docker. I'm looking for an internship opportunity to consolidate and expand my knowledge, contributing my skills and learning even more in a professional environment.
